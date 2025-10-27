@@ -2,7 +2,6 @@ package ch.roth.aipoc.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.ai.chat.model.ChatResponse;
-import org.springframework.ai.chat.prompt.ChatOptions;
 import org.springframework.ai.chat.prompt.Prompt;
 import org.springframework.ai.openai.OpenAiChatModel;
 import org.springframework.stereotype.Service;
